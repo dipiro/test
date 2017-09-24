@@ -12,3 +12,4 @@ ww = w.get_detailed_status()
 print( 'В городе ' + city + ' ' + str(temperature) + '. В этом горде ' + ww )
 
 # https://github.com/csparpa/pyowm
+#
